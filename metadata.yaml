@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '892'
     url: http://www.gutenberg.org/2009/agents/892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42285#The-Story-of-Scraggles
 gutenberg_issued: '2013-03-09'
 gutenberg_type: Text
 identifiers:
