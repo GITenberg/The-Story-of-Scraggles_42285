@@ -1,0 +1,36 @@
+_repo: The-Story-of-Scraggles_42285
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gallagher, Sears
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '8550'
+    url: http://www.gutenberg.org/2009/agents/8550
+covers:
+- cover_type: archival
+  image_path: 42285-h/images/cover.jpg
+creator:
+  author:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42285'
+  lccn: 06034087
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Song sparrow'
+- !lcsh 'Birds'
+title: The Story of Scraggles
+url: http://www.gutenberg.org/ebooks/42285
